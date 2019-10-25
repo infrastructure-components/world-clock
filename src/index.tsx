@@ -20,7 +20,7 @@ export default (
 
         <Route
             path='/'
-            name='Infrastructure-Components'
+            name='World-Clock'
             render={(props)=><WithNavigation>
                     <World />
                 </WithNavigation>}
